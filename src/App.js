@@ -17,7 +17,7 @@ function App() {
 
       
 
-    <BrowserRouter>
+    <BrowserRouter basename='/NewDoor'>
       <Routes>
 
       <Route path ='/' element={<Home/>}/>
