@@ -10,7 +10,7 @@ const Navbar = () => {
   const handleclick = () => setClick(!click);
 
   return (
-    <div>
+    <div className='helllo'>
      <header className="text-gray-600     bg-white body-font border-6 border-purple rounded-3xl hello m-4 z-20">
   <div className="container n mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     
