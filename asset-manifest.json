@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NewDoor/static/css/main.2a2a326f.css",
-    "main.js": "/NewDoor/static/js/main.e3c751dd.js",
+    "main.js": "/NewDoor/static/js/main.67a8f0d7.js",
     "static/js/787.03b0d410.chunk.js": "/NewDoor/static/js/787.03b0d410.chunk.js",
     "static/media/1.jpg": "/NewDoor/static/media/1.9133ce984af3b30e3d5c.jpg",
     "static/media/8.jpg": "/NewDoor/static/media/8.f7c5179ccb11ba8737f6.jpg",
@@ -15,11 +15,11 @@
     "static/media/7.jpg": "/NewDoor/static/media/7.2f8366fc8681bd8e5999.jpg",
     "index.html": "/NewDoor/index.html",
     "main.2a2a326f.css.map": "/NewDoor/static/css/main.2a2a326f.css.map",
-    "main.e3c751dd.js.map": "/NewDoor/static/js/main.e3c751dd.js.map",
+    "main.67a8f0d7.js.map": "/NewDoor/static/js/main.67a8f0d7.js.map",
     "787.03b0d410.chunk.js.map": "/NewDoor/static/js/787.03b0d410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a2a326f.css",
-    "static/js/main.e3c751dd.js"
+    "static/js/main.67a8f0d7.js"
   ]
 }
