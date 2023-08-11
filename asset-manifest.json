@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NewDoor/static/css/main.2a2a326f.css",
+    "main.js": "/NewDoor/static/js/main.e3c751dd.js",
+    "static/js/787.03b0d410.chunk.js": "/NewDoor/static/js/787.03b0d410.chunk.js",
+    "static/media/1.jpg": "/NewDoor/static/media/1.9133ce984af3b30e3d5c.jpg",
+    "static/media/8.jpg": "/NewDoor/static/media/8.f7c5179ccb11ba8737f6.jpg",
+    "static/media/logo.jpeg": "/NewDoor/static/media/logo.caae7d9bdb6ac58bd4bc.jpeg",
+    "static/media/9.jpg": "/NewDoor/static/media/9.5e991100c59b65ba11d0.jpg",
+    "static/media/3.jpg": "/NewDoor/static/media/3.027e98cdf7254995885b.jpg",
+    "static/media/5.jpg": "/NewDoor/static/media/5.a2ade318701750be75d9.jpg",
+    "static/media/6.jpg": "/NewDoor/static/media/6.34bd19bbd8560975b188.jpg",
+    "static/media/4.jpg": "/NewDoor/static/media/4.ead55c305777b52668c9.jpg",
+    "static/media/2.jpg": "/NewDoor/static/media/2.267d0749da720b386eb0.jpg",
+    "static/media/7.jpg": "/NewDoor/static/media/7.2f8366fc8681bd8e5999.jpg",
+    "index.html": "/NewDoor/index.html",
+    "main.2a2a326f.css.map": "/NewDoor/static/css/main.2a2a326f.css.map",
+    "main.e3c751dd.js.map": "/NewDoor/static/js/main.e3c751dd.js.map",
+    "787.03b0d410.chunk.js.map": "/NewDoor/static/js/787.03b0d410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2a326f.css",
+    "static/js/main.e3c751dd.js"
+  ]
+}
