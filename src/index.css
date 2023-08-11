@@ -88,6 +88,16 @@ font-family: 'Proza Libre', sans-serif;
   
 }
 
+@media screen and (max-width: 1040px) {
+
+  .helllo{
+   margin-left: -11px;
+    
+   
+  }
+  
+}
+
 
 
 
