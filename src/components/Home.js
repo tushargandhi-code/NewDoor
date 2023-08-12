@@ -22,7 +22,7 @@ const Home = () => {
       <div className="text z-10">
         <h1 className='text-white text-6xl font-bold font shadow-xl'>Search Your Next Home</h1>
         <p className='text-xl font-medium text-gray-300 px-2 py-4'>Forget all difficulties in finding a residence for you...</p>
-        <a href='https://tushargandhi-code.github.io/NewDoor/service'>
+        <a href='https://en.wikipedia.org/wiki/Real_estate' target='_blank'>
         <button className="bg-transparent font-bold tracking-widest hover:bg-blue-500 text-blue-300 font-semibold hover:text-white py-2 px-4 border-2 border-blue-500 hover:border-transparent rounded">
   Get Started
 </button>
