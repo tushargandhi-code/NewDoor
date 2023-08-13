@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <div className='helllo'>
-     <header className="text-gray-600     bg-red-600 body-font border-6 border-purple rounded-3xl hello m-4 z-20">
+     <header className="text-gray-600     bg-white body-font border-6 border-purple rounded-3xl hello m-4 z-20">
   <div className="container n mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     
     <a className="flex title-font   font-medium items-center text-gray-900 mb-4 md:mb-0">
